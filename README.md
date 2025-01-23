@@ -10,6 +10,16 @@ Com este projeto, você poderá:
 
 ---
 
+## Versão Atual
+
+O projeto está na versão v1.0.0. Você pode acessar a release completa [aqui](https://github.com/marioleo7k/bookscraper/releases/tag/1.0.0).
+
+### Novidades na v1.0.0:
+- Scraper para extrair informações sobre livros.
+- Dashboard interativo com Streamlit.
+
+---
+
 ## 📜 **Propósito do Projeto**
 
 Este projeto foi desenvolvido com o objetivo de demonstrar habilidades em:
