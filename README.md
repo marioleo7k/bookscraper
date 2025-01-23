@@ -73,10 +73,10 @@ Acesse a URL local exibida no terminal, como `http://localhost:8501`.
 ## 🖼️ **Exemplos de Visualizações**
 
 ### Distribuição de Preços:
-![Distribuição de Preços](https://raw.githubusercontent.com/marioleo7k/bookscraper/refs/heads/main/.images/distribuicao_de_precos.png)
+<img src="https://raw.githubusercontent.com/marioleo7k/bookscraper/refs/heads/main/.images/distribuicao_de_precos.png" width="400" height="200" />
 
 ### Preço dos Livros por Ordem de Extração:
-![Preço dos Livros por Ordem de Extração](https://raw.githubusercontent.com/marioleo7k/bookscraper/refs/heads/main/.images/preco_dos_livros_por_ordem_de_extracao.png)
+<img src="https://raw.githubusercontent.com/marioleo7k/bookscraper/refs/heads/main/.images/preco_dos_livros_por_ordem_de_extracao.png" width="400" height="200" />
 
 ---
 
