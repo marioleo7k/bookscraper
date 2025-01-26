@@ -10,6 +10,16 @@ Com este projeto, você poderá:
 
 ---
 
+## Versão Atual
+
+O projeto está na versão v1.0.0. Você pode acessar a release completa [aqui](https://github.com/marioleo7k/bookscraper/releases/tag/1.0.0).
+
+### Novidades na v1.0.0:
+- Scraper para extrair informações sobre livros.
+- Dashboard interativo com Streamlit.
+
+---
+
 ## 📜 **Propósito do Projeto**
 
 Este projeto foi desenvolvido com o objetivo de demonstrar habilidades em:
@@ -73,10 +83,10 @@ Acesse a URL local exibida no terminal, como `http://localhost:8501`.
 ## 🖼️ **Exemplos de Visualizações**
 
 ### Distribuição de Preços:
-![Distribuição de Preços](https://raw.githubusercontent.com/marioleo7k/bookscraper/refs/heads/main/.images/distribuicao_de_precos.png)
+<img src="https://raw.githubusercontent.com/marioleo7k/bookscraper/refs/heads/main/.images/distribuicao_de_precos.png" width="400" height="200" />
 
 ### Preço dos Livros por Ordem de Extração:
-![Preço dos Livros por Ordem de Extração](https://raw.githubusercontent.com/marioleo7k/bookscraper/refs/heads/main/.images/preco_dos_livros_por_ordem_de_extracao.png)
+<img src="https://raw.githubusercontent.com/marioleo7k/bookscraper/refs/heads/main/.images/preco_dos_livros_por_ordem_de_extracao.png" width="400" height="200" />
 
 ---
 
@@ -100,6 +110,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## ⚖️ **Licença**
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
+
+![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
