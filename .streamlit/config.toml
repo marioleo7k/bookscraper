@@ -1,0 +1,11 @@
+[theme]
+base="dark"  # Ou "light" para tema claro
+primaryColor="#FF6347"  # Cor principal
+secondaryBackgroundColor="#2A2A2A"  # Cor de fundo secundária
+backgroundColor="#1E1E1E"  # Cor de fundo principal
+textColor="#FFFFFF"  # Cor do texto
+font = "sans serif"  # Fonte da aplicação (pode ser 'serif', 'monospace', ou 'sans serif')
+
+# Configurações adicionais, como barra lateral
+[layout]
+wideMode = true  # Usa o modo de layout mais largo
