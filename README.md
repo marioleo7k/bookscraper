@@ -1,4 +1,3 @@
-
 # 📚 BookScraper: Extração e Visualização de Dados de Livros
 
 Bem-vindo ao **BookScraper**, um projeto de Python que combina web scraping e visualização de dados para explorar informações de livros disponíveis no site [Books to Scrape](https://books.toscrape.com/). 
@@ -7,16 +6,6 @@ Com este projeto, você poderá:
 - Extrair dados como títulos e preços de livros.
 - Armazenar essas informações em um arquivo CSV.
 - Visualizar insights através de uma dashboard interativa criada com Streamlit.
-
----
-
-## Versão Atual
-
-O projeto está na versão v1.0.0. Você pode acessar a release completa [aqui](https://github.com/marioleo7k/bookscraper/releases/tag/v1.0.0).
-
-### Novidades na v1.0.0:
-- Scraper para extrair informações sobre livros.
-- Dashboard interativo com Streamlit.
 
 ---
 
@@ -91,35 +80,35 @@ Acesse a URL local exibida no terminal, como `http://localhost:8501`.
 ---
 
 ## 📂 **Estrutura do Repositório**
+
+A estrutura de arquivos do repositório está organizada da seguinte forma:
+
 ```
 bookscraper/
-├── bookscraper.py          # Script de extração de dados
-├── bookscraper_dashboard.py # Script da dashboard
-├── livros.csv              # Dados extraídos (gerado pelo scraper)
-├── requirements.txt        # Dependências do projeto
-├── .gitignore              # Arquivos ignorados pelo Git
-└── README.md               # Documentação do projeto
+├── bookscraper.py            # Script de extração de dados
+├── bookscraper_dashboard.py  # Script da dashboard
+├── livros.csv                # Dados extraídos (gerado pelo scraper)
+├── requirements.txt          # Dependências do projeto
+├── .gitignore                # Arquivos ignorados pelo Git
+└── README.md                 # Documentação do projeto
 ```
-
----
-
-## 🌟 **Contribuição**
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias no projeto.
 
 ---
 
 ## ⚖️ **Licença**
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
 
-![MIT License](https://img.shields.io/badge/license-MIT-blue)
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
 
 ## 💬 **Contato**
-Para dúvidas ou feedback, você pode me encontrar no LinkedIn:
-[Mario Leonardo da Silva](https://www.linkedin.com/in/marioleo7k/).
+
+Para dúvidas ou feedback:
+- **LinkedIn**: [Mario Leonardo da Silva](https://www.linkedin.com/in/marioleo7k/)
+- **E-mail**: marioleo7k@icloud.com
 
 ---
 
 ## 🌐 **Dashboard Publicada**
+
 Você também pode acessar a versão publicada da dashboard [aqui](https://bookscraper-dashboard.streamlit.app/).
